@@ -19,10 +19,7 @@ When I started to work like designer, I also try to copy some art, to learn some
 # Good copy is stolen work
 
 There are many examples of stolen artwork not only in graphic design but also in fashion, interiors, films, and so on. 
+<img src="/newfilder/screenshot_Bazar.png"> 
+<img src="/newfilder/screenshot_magazin.png"> 
 
-
-https://wiki.wildberries.ru/news/%D0%B2%D0%B4%D0%BE%D1%85%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8%D0%BB%D0%B8-%D0%BF%D0%BB%D0%B0%D0%B3%D0%B8%D0%B0%D1%82-%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5
-
-https://www.prostranstvo.media/kak-ukrast-dom-plagiat-v-arhitekture/
-https://www.boredpanda.com/people-caught-copying-plagiarism-stealing-art-knockoffs/?utm_source=google&utm_medium=organic&utm_campaign=organic
- 
+<img src="/newfilder/screenshot_architekture.png"> 
