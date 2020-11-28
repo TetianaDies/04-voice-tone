@@ -1,6 +1,6 @@
 
 # Be or not to be…
-Many people believe that designers are unique in their thinking and working on projects like special in some way. Becoming a designer actually takes years of hard work, experimentation, and failure.Designers, like everyone else, should be inspired by something for their work, and then the problem appears: to be inspired or to copy or not to be...
+Many people believe that designers are unique in their thinking and working on projects like special in some way. Becoming a designer actually takes years of hard work, experimentation, and failure. Designers, like everyone else, should be inspired by something for their work, and then the problem appears: to be inspired or to copy or not to be...
 
 The very famous web site Pinterest has brought an opportunity to look at the best works of designers. There is a lot of competition between designers who look at their work and want to be even better. How to be better when everything is already invented for us?
 
@@ -11,7 +11,7 @@ When I started to work like designer, I also try to copy some art, to learn some
 
 <img src="/newfilder/Tetiana_Denysova_CopyArt.jpg"> 
 
-https://faso.com/boldbrush/fav/6974
+
 
  As you can see in the example, it was difficult for me to make a copy. A bad copy is even more fun than the original.
 *It is very important to talk about a copy as a copy not as your own work!
