@@ -23,3 +23,6 @@ There are many examples of stolen artwork not only in graphic design but also in
 <img src="/newfilder/screenshot_magazin.png"> 
 
 <img src="/newfilder/screenshot_architekture.png"> 
+Many stolen works can be viewed at this link:
+https://www.boredpanda.com/people-caught-copying-plagiarism-stealing-art-knockoffs/?utm_source=google&utm_medium=organic&utm_campaign=organic
+
