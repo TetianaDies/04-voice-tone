@@ -6,23 +6,29 @@ The very famous web site Pinterest has brought an opportunity to look at the bes
 
 Before doing something, we always look at what has already been done before us. We can borrow an idea but not an exact copy of the design. 
 
-# Bad copy is fun
-When I started to work like designer, I also try to copy some art, to learn some new style. For example, at the university we had a task to copy the works of one famous artist to understand how he used color, shadows, contrast in his works.
+# Copy is learning
+When I started to work like a designer, I also try to copy some art, to learn some new style. For example, at the university we had a task to copy the works of one famous artist to understand how he used color, shadows, contrast in his works.
 
 <img src="/newfilder/Tetiana_Denysova_CopyArt.jpg"> 
 
 
 
- As you can see in the example, it was difficult for me to make a copy. A bad copy is even more fun than the original.
+ As you can see in the example, it was difficult for me was to make a copy. A bad copy is even more fun than the original. After I tried to make a copy, I realized that it's just not my style and I don't want to draw like that. The copying process gave me the opportunity to understand how I really draw and that I still need to learn a lot.
+
+
+# Stealing
+
+If you are copying a work of art to steal and want to share it online, consider: Have you stolen enough from enough sources and changed the original ideas to create something new? If you are not sure if your work is original: you must indicate the original source or artist.
 *It is very important to talk about a copy as a copy not as your own work!
 
-# Good copy is stolen work
+# What can happen?
+Art plagiarism has its own consequences, so you must avoid it. Here are some of the possible outcomes if you commit it:
+- Destroyed someone reputation
+- Potential lawsuits
+- Monetary fines
 
-There are many examples of stolen artwork not only in graphic design but also in fashion, interiors, films, and so on. 
-<img src="/newfilder/screenshot_Bazar.png"> 
-<img src="/newfilder/screenshot_magazin.png"> 
+# Have you copied other artist’s work?
 
-<img src="/newfilder/screenshot_architekture.png"> 
-Many stolen works can be viewed at this link:
-https://www.boredpanda.com/people-caught-copying-plagiarism-stealing-art-knockoffs/?utm_source=google&utm_medium=organic&utm_campaign=organic
+If you copied the work of other artists, this doesn`t mean that you stole something, but then you cannot recognize the copy as your work. You need to understand what the consequences can be if you steal someone's work. 
 
+Thanks for reading!
